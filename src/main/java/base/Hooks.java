@@ -68,7 +68,7 @@ public class Hooks extends BaseClass {
 	                s.attach(screenshot, "image/png", "Failure Test Case Screenshot");
 	            }
 	        }
-	        driver.quit();
+	      //  driver.quit();
 	  	}		
 }
  
